@@ -1,7 +1,7 @@
 
 .container{
+    text-align: left;
     width: 46%;
-    display: flex;
     border: 1px solid gray;
     font-family: arial;
 }
