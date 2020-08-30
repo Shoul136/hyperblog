@@ -1,5 +1,6 @@
 
 body{
+    background:rgb(214, 212, 212);
     color: #333;
     text-align: center;
     font-family: "arial";
@@ -33,4 +34,9 @@ body{
 }
 #post{
     padding: 0.5em;
+}
+#cabecera img{
+    width: 28px;
+    top: 4px;
+    position: relative;
 }
